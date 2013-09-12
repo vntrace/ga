@@ -1,0 +1,22 @@
+{
+  "name": "j-ga",
+  "description": "Simple Google analytics tracking",
+  "version": "0.0.1",
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "request": "*",
+    "underscore": "*",
+    "qs": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thanh Dang <clgt@clgt.vn> (http://clgt.vn/)",
+  "license": "BSD",
+  "keywords": [
+    "ga"
+  ]
+}
